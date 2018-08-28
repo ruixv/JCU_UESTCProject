@@ -16,12 +16,12 @@
   + With the previous hardware connection diagram, we can put them in a tray. 
 
 ## How to Start
-  +You need some hardware as followes:
+  + You need some hardware as followes:
     + WeMos D1 mini Board
     + Soil Moisture Sensor
     + SHT30 Air temperature and moisture snesor
     + OLED with I2C
     + 12V Relay
     + Blynk Android/IOS APP
-  + 
+  + Folder "Blynk_OLED_Moisture_relay_Tem_power" and File "Blynk_OLED_Moisture_relay_Tem_power.ino" is what you need to download into WeMos D1 Mini
   
